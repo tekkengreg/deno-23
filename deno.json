@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "cors": "npm:cors@^2.8.5",
+    "math": "https://deno.land/x/math@v1.1.0/mod.ts"
+  }
+}
